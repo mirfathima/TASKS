@@ -1,7 +1,7 @@
 # TASKS
 Python - Concepts
 # Data Types and Slicing Python script
- -Demonstrates the use of different data types in a list named mixed_data. It includes integers, floats, and strings. The program showcases slicing techniques to extract subsets of elements, such as the first three, elements from the 2nd to 5th position, and the last two elements.
+-Demonstrates the use of different data types in a list named mixed_data. It includes integers, floats, and strings. The program showcases slicing techniques to extract subsets of elements, such as the first three, elements from the 2nd to 5th position, and the last two elements.
 
 # Functions Python script
 -Defines a function, calculate_discount, that takes an original price and an optional discount percentage (default is 10%). The function calculates the discount amount and returns the discounted price. The program then demonstrates the function by applying a 10% discount to an original price of $100, showcasing the original and discounted prices.
